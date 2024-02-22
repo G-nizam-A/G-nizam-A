@@ -28,21 +28,23 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Designlyfe | [Designlyfe](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
-| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
-| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
-| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
-| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
-| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
-| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
+| Instagram Clone | - | [view](https://github.com/G-nizam-A/instagram-clone) | `Next.JS` `TypeScript` `React` `Prisma` `Postgres` `Tailwind` `Zod` `shadcn` |
+| Student Result System | - | [view](https://github.com/G-nizam-A/student-result-system-nodejs) | `HTML` `CSS` `JavaScript` `Node.JS` `MySQL` `Express.JS` `Rest API` | 
+| Bingo Game | [view](https://bingo-game-steel.vercel.app) | [view](https://github.com/G-nizam-A/Bingo-Game) | `HTML` `CSS` `JavaScript`| 
+| Labour Union Management Sytem | [view](https://smvk.org/) | - | `Next.JS` `JavaScript` `React` `Firebase` `Node.JS` `Tailwind` `Airtable Database` `Zod` `Multer` `Axios` | 
+| Famos | [view](https://famos.ae/) | - | `HTML` `CSS` `JavaScript` `Airtable Database` |
+| Bike Clinic | [view](https://bike-clinic.vercel.app/) | - | `HTML` `CSS` `JavaScript` |
+| A.M.I.A.F | [view](https://www.aishamuhammedibrahimasilifoundation.com/) | - | `JavaScript` `HTML` `CSS` |
+| Hotstar Clone | [view](https://g-nizam-a.github.io/Disney-Plus-Hotstar-Clone/) | [view](https://github.com/G-nizam-A/Disney-Plus-Hotstar-Clone) | `React` `JavaScript` `Node.JS` `Tailwind` `Vite` `Axios` `TMDB API` | 
+| Wave Series | [view](https://github.com/G-nizam-A/wave-series) | - | `HTML` `CSS` `JavaScript` |
+| Alabeer | [view](https://alabeerstore.com/) | - | `HTML` `CSS` `JavaScript` |
+| Estate Plywood | [view](https://estate-plwood.vercel.app/) | - | `HTML` `CSS` `JavaScript` |
+| Weather App | [view](https://g-nizam-a.github.io/weather-app-react/) | [view](https://github.com/G-nizam-A/weather-app-react) | `React` `JavaScript` `Node.JS` `Tailwind` `Axios` `OpenWeatherMap API` |
+| Emergency Call App | [view](https://github.com/G-nizam-A/Emergency-Call-Android--App) | - | `Java` `Android Studio` `XML` |
+| Scholarship Form App | [view](https://github.com/G-nizam-A/ScholarshipFormApp) | - | `Java` `Android Studio` `Firebase` `XML` |
+| Bus Time Management System | [view](https://github.com/G-nizam-A/Bus-Time-Management) | - | `Java` `NetBeans` `JFrame` `JSwing` |
+| Exam Seat Allotment | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | - | `Java` `NetBeans` `JFrame` `JSwing` |
+
 
 <br>
 
