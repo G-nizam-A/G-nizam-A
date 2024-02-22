@@ -71,7 +71,7 @@
 | Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 
 <hr>
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![G-nizam-A github stats](https://github-readme-stats.vercel.app/api?username=G-nizam-A\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![G-nizam-A GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G-nizam-A&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
