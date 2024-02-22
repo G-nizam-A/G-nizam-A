@@ -13,18 +13,18 @@
   <img src="https://komarev.com/ghpvc/?username=g-nizam-a&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="g-nizam-a" />
   <br><br>
   <a href="mailto:nizamcs10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email of nizam - nizamcs10@gmail.com - g-nizam-a" /></a>
-  <a href="https://twitter.com/M_Nizam10"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile of nizam - M_Nizam10 - g-nizam-a" /></a>
-  <a href="https://www.linkedin.com/in/nizam-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nizam linkedin profile - g-nizam-a" /></a>
-  <a href="https://www.hackerrank.com/profile/nizamcs10"><img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerearth&logoColor=white" alt="hackerearth profile of nizam - nizamcs10 - g-nizam-a"/></a>  
-  <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube channel of nizam - @nizamcs10 - g-nizam-a"/></a>  
-  <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a"/></a>
+  <a href="https://twitter.com/M_Nizam10"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile of nizam - M_Nizam10 - g-nizam-a" target="_blank" rel="noreferrer"/></a>
+  <a href="https://www.linkedin.com/in/nizam-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nizam linkedin profile - g-nizam-a" target="_blank" rel="noreferrer"/></a>
+  <a href="https://www.hackerrank.com/profile/nizamcs10"><img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerearth&logoColor=white" alt="hackerearth profile of nizam - nizamcs10 - g-nizam-a" target="_blank" rel="noreferrer"/></a>  
+  <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube channel of nizam - @nizamcs10 - g-nizam-a" target="_blank" rel="noreferrer"/></a>  
+  <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a" target="_blank" rel="noreferrer"/></a>
 </div>
 <br>
 
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-nizam-a" alt="g-nizam-a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=g-nizam-a" alt="g-nizam-a" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next JS, Remix and Express**
 
@@ -40,11 +40,11 @@
 | Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%20ui-black?style=for-the-badge&logo=shadcnui&logoColor=white" /> |
 | Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /> |
-| Tools & Services | <a href="https://github.com/G-nizam-A"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/openCV-blue?style=for-the-badge&logo=opencv&logoColor=red"/> <img src="https://img.shields.io/badge/tensorflow-lightgray?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/photoshop-001e34?style=for-the-badge&logo=adobephotoshop&logoColor=00a6f7"/>|
+| Tools & Services | <a href="https://github.com/G-nizam-A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/openCV-blue?style=for-the-badge&logo=opencv&logoColor=red"/> <img src="https://img.shields.io/badge/tensorflow-lightgray?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/photoshop-001e34?style=for-the-badge&logo=adobephotoshop&logoColor=00a6f7"/>|
 | IDE | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=Apache&logoColor=green" /> <img src="https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=Eclipse&logoColor=red"/> <img src="https://img.shields.io/badge/Android%20Studio-blue?style=for-the-badge&logo=Android%20Studio&logoColor=green" /> |
 | Hosting | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> |
 | Design Tools | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
-| Learning | <a href="https://www.hackerrank.com/profile/nizamcs10"><img src="https://img.shields.io/badge/hackerearth-black?style=for-the-badge&logo=hackerearth&logoColor=white"/></a> <img src="https://img.shields.io/badge/geeksforgeeks-339933?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/> <a href="https://www.coursera.org/user/063c9fa357e99d539abe12c27a9f6c9c"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> |
+| Learning | <a href="https://www.hackerrank.com/profile/nizamcs10" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/hackerearth-black?style=for-the-badge&logo=hackerearth&logoColor=white"/></a> <img src="https://img.shields.io/badge/geeksforgeeks-339933?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/> <a href="https://www.coursera.org/user/063c9fa357e99d539abe12c27a9f6c9c" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> |
 
 <hr>
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -70,13 +70,14 @@
 | Bus Time Management System | - | [view](https://github.com/G-nizam-A/Bus-Time-Management) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 | Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 
-<hr>
-| ![G-nizam-A github stats](https://github-readme-stats.vercel.app/api?username=G-nizam-A\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![G-nizam-A GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G-nizam-A&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" />
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" />
+</p>
 
