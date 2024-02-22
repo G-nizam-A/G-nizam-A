@@ -26,8 +26,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-nizam-a" alt="g-nizam-a" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/am_niz01" target="blank"><img src="https://img.shields.io/twitter/follow/am_niz01?logo=twitter&style=for-the-badge" alt="am_niz01" /></a> </p>
-
 - 🌱 I’m currently learning **React, Next JS, Remix and Express**
 
 - 📫 How to reach me **nizamcs10@gmail.com**
@@ -72,12 +70,15 @@
 | Bus Time Management System | - | [view](https://github.com/G-nizam-A/Bus-Time-Management) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 | Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 
-<hr>
+<hr>]
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
+![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
 | ![Nizam github stats](https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact) |
 ![Nizam GitHub Streak](https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en) |
 | -- | -- |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" /></p>
 
