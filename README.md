@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Nizam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g-nizam-a&label=Profile%20views&color=0e75b6&style=flat" alt="g-nizam-a" /> </p>
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<!---![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85) -->
+
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=g-nizam-a&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="g-nizam-a" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/nizam-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nizam linkedin profile - g-nizam-a" /></a>
+  <a href="mailto:nizamcs10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email of nizam - nizamcs10@gmail.com - g-nizam-a" /></a>
+  <a href="https://twitter.com/M_Nizam10"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile of nizam - M_Nizam10 - g-nizam-a" /></a>
+   <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a"/> </a>
+  <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube channel of nizam - @nizamcs10 - g-nizam-a"/></a>  
+</div>
+<br>
+
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-nizam-a" alt="g-nizam-a" /></a> </p>
 
@@ -32,12 +52,9 @@
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%20ui-black?style=for-the-badge&logo=shadcnui&logoColor=white" /> |
 | Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /> |
 | Tools & Services | <a href="https://github.com/G-nizam-A"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/openCV-blue?style=for-the-badge&logo=opencv&logoColor=red"/> <img src="https://img.shields.io/badge/tensorflow-lightgray?style=for-the-badge&logo=tensorflow"/> |
-| IDE | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=Eclipse&logoColor=red"/> <img src="https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=Apache&logoColor=green" /> <img src="https://img.shields.io/badge/Android%20Studio-blue?style=for-the-badge&logo=Android%20Studio&logoColor=green" />  <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white"/> </a>|
+| IDE | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=Eclipse&logoColor=red"/> <img src="https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=Apache&logoColor=green" /> <img src="https://img.shields.io/badge/Android%20Studio-blue?style=for-the-badge&logo=Android%20Studio&logoColor=green" />  <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white"/> </a> |
 | Hosting | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
 | Design Tools | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
-| Social Media | <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>  <a href="https://twitter.com/M_Nizam10"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" /></a> |
-  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
