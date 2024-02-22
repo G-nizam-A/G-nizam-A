@@ -12,12 +12,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=g-nizam-a&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="g-nizam-a" />
   <br><br>
-  <a href="https://www.linkedin.com/in/nizam-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nizam linkedin profile - g-nizam-a" /></a>
-  <a href="https://twitter.com/M_Nizam10"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile of nizam - M_Nizam10 - g-nizam-a" /></a>
   <a href="mailto:nizamcs10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email of nizam - nizamcs10@gmail.com - g-nizam-a" /></a>
-   <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a"/> </a>
-  <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube channel of nizam - @nizamcs10 - g-nizam-a"/></a>  
+  <a href="https://twitter.com/M_Nizam10"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter profile of nizam - M_Nizam10 - g-nizam-a" /></a>
+  <a href="https://www.linkedin.com/in/nizam-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nizam linkedin profile - g-nizam-a" /></a>
   <a href="https://www.hackerrank.com/profile/nizamcs10"><img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerearth&logoColor=white" alt="hackerearth profile of nizam - nizamcs10 - g-nizam-a"/></a>  
+  <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube channel of nizam - @nizamcs10 - g-nizam-a"/></a>  
+  <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a"/></a>
 </div>
 <br>
 
@@ -70,15 +70,13 @@
 | Bus Time Management System | - | [view](https://github.com/G-nizam-A/Bus-Time-Management) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 | Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 
-<hr>]
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
-![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
-| ![Nizam github stats](https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact) |
-![Nizam GitHub Streak](https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en) |
+<hr>
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
+<hr>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" />
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" /></p>
 
