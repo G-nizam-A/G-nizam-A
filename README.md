@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **React, Next JS, Remix and Express**
 
-- 📫 How to reach me **nizamcs10@gmail.com**
+- 📫 How to reach me: **nizamcs10@gmail.com** r 
 
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -75,9 +75,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" />
 </p>
 
