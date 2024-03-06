@@ -70,14 +70,13 @@
 | Bus Time Management System | - | [view](https://github.com/G-nizam-A/Bus-Time-Management) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 | Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 
-
 <hr>
-| <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nizam's github stats" /></a> | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-nizam-a&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <div align="center">
+
+   | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-nizam-a&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g-nizam-a&show_icons=true&locale=en&layout=compact" alt="g-nizam-a" />
-  <img src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&locale=en" alt="g-nizam-a" />
-</p>
+
+</div> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-nizam-a&" alt="g-nizam-a" />
 </p>
