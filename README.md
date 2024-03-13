@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **React, Next JS, Remix and Express**
 
-- 📫 How to reach me: **nizamcs10@gmail.com** r 
+- 📫 How to reach me: **nizamcs10@gmail.com** 
 
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 
