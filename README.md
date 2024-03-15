@@ -65,7 +65,7 @@
 <hr>
  <div align="center">
 
-   | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-nizam-a&layout=compact&theme=buefy&hide_border=true" /></a> |
+   | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=g-nizam-a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nizam's github stats" /></a> | <a href="https://github.com/g-nizam-a/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-nizam-a&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div> 
