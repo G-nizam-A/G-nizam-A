@@ -45,6 +45,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| CRUD using Firebase Firestore | [view](https://crud-firebase-firestore.vercel.app/) | [view](https://github.com/G-nizam-A/crud-firebase-firestore) | `Next.JS` `JavaScript` `React` `Firebase` `Firestore` `Tailwind CSS` `Zod` `shadcn` |
 | Instagram Clone | - | [view](https://github.com/G-nizam-A/instagram-clone) | `Next.JS` `TypeScript` `React` `Prisma` `Postgres` `Tailwind CSS` `Zod` `shadcn` |
 | Student Result System | - | [view](https://github.com/G-nizam-A/student-result-system-nodejs) | `HTML` `CSS` `JavaScript` `Node.JS` `MySQL` `Express.JS` `Rest API` | 
 | Bingo Game | [view](https://bingo-game-steel.vercel.app) | [view](https://github.com/G-nizam-A/Bingo-Game) | `HTML` `CSS` `JavaScript`| 
