@@ -45,7 +45,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| CRUD using Firebase Firestore | [view](https://crud-firebase-firestore.vercel.app/){:target="_blank"} | [view](https://github.com/G-nizam-A/crud-firebase-firestore){:target="_blank"} | `Next.JS` `JavaScript` `React` `Firebase` `Firestore` `Tailwind CSS` `Zod` `shadcn` |
+| CRUD using Firebase Firestore |  <a href="https://crud-firebase-firestore.vercel.app/" target="_blank">view</a> | <a href="https://github.com/G-nizam-A/crud-firebase-firestore" target="_blank">view</a>  | `Next.JS` `JavaScript` `React` `Firebase` `Firestore` `Tailwind CSS` `Zod` `shadcn` |
 | Instagram Clone | - | [view](https://github.com/G-nizam-A/instagram-clone){:target="_blank"} | `Next.JS` `TypeScript` `React` `Prisma` `Postgres` `Tailwind CSS` `Zod` `shadcn` |
 | Student Result System | - | [view](https://github.com/G-nizam-A/student-result-system-nodejs){:target="_blank"} | `HTML` `CSS` `JavaScript` `Node.JS` `MySQL` `Express.JS` `Rest API` | 
 | Bingo Game | [view](https://bingo-game-steel.vercel.app){:target="_blank"} | [view](https://github.com/G-nizam-A/Bingo-Game){:target="_blank"} | `HTML` `CSS` `JavaScript`| 
