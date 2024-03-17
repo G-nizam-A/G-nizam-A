@@ -45,23 +45,23 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| CRUD using Firebase Firestore |  <a href="https://crud-firebase-firestore.vercel.app/" target="_blank">view</a> | <a href="https://github.com/G-nizam-A/crud-firebase-firestore" target="_blank">view</a>  | `Next.JS` `JavaScript` `React` `Firebase` `Firestore` `Tailwind CSS` `Zod` `shadcn` |
-| Instagram Clone | - | [view](https://github.com/G-nizam-A/instagram-clone){:target="_blank"} | `Next.JS` `TypeScript` `React` `Prisma` `Postgres` `Tailwind CSS` `Zod` `shadcn` |
-| Student Result System | - | [view](https://github.com/G-nizam-A/student-result-system-nodejs){:target="_blank"} | `HTML` `CSS` `JavaScript` `Node.JS` `MySQL` `Express.JS` `Rest API` | 
-| Bingo Game | [view](https://bingo-game-steel.vercel.app){:target="_blank"} | [view](https://github.com/G-nizam-A/Bingo-Game){:target="_blank"} | `HTML` `CSS` `JavaScript`| 
-| Labour Union Management Sytem | [view](https://smvk.org/){:target="_blank"} | - | `Next.JS` `JavaScript` `React` `Firebase` `Node.JS` `Tailwind CSS` `Airtable Database` `Zod` `Axios` | 
-| Famos | [view](https://famos.ae/){:target="_blank"} | - | `HTML` `CSS` `JavaScript` `Bootstrap`  `Airtable Database` |
-| Bike Clinic | [view](https://bike-clinic.vercel.app/){:target="_blank"} | - | `HTML` `CSS` `JavaScript` |
-| A.M.I.A.F | [view](https://www.aishamuhammedibrahimasilifoundation.com/){:target="_blank"} | - | `JavaScript` `HTML` `CSS` `Bootstrap` |
-| Hotstar Clone | [view](https://g-nizam-a.github.io/Disney-Plus-Hotstar-Clone/){:target="_blank"} | [view](https://github.com/G-nizam-A/Disney-Plus-Hotstar-Clone){:target="_blank"} | `React` `JavaScript` `Node.JS` `Tailwind CSS` `Vite` `Axios` `TMDB API` | 
-| Wave Series | [view](https://github.com/G-nizam-A/wave-series){:target="_blank"} | - | `HTML` `CSS` `JavaScript` |
-| Alabeer | [view](https://alabeerstore.com/){:target="_blank"} | - | `HTML` `CSS` `JavaScript` |
-| Estate Plywood | [view](https://estate-plwood.vercel.app/){:target="_blank"} | - | `HTML` `CSS` `JavaScript` |
-| Weather App | [view](https://g-nizam-a.github.io/weather-app-react/){:target="_blank"} | [view](https://github.com/G-nizam-A/weather-app-react){:target="_blank"} | `React` `JavaScript` `Node.JS` `Tailwind CSS` `Axios` `OpenWeatherMap API` |
-| Emergency Call App | - |[view](https://github.com/G-nizam-A/Emergency-Call-Android--App){:target="_blank"} | `Java` `Android Studio` `XML` |
-| Scholarship Form App | - | [view](https://github.com/G-nizam-A/ScholarshipFormApp){:target="_blank"} | `Java` `Android Studio` `Firebase` `XML` |
-| Bus Time Management System | - | [view](https://github.com/G-nizam-A/Bus-Time-Management){:target="_blank"} | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
-| Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment){:target="_blank"} | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
+| CRUD using Firebase Firestore | [view](https://crud-firebase-firestore.vercel.app/) | [view](https://github.com/G-nizam-A/crud-firebase-firestore)  | `Next.JS` `JavaScript` `React` `Firebase` `Firestore` `Tailwind CSS` `Zod` `shadcn` |
+| Instagram Clone | - | [view](https://github.com/G-nizam-A/instagram-clone) | `Next.JS` `TypeScript` `React` `Prisma` `Postgres` `Tailwind CSS` `Zod` `shadcn` |
+| Student Result System | - | [view](https://github.com/G-nizam-A/student-result-system-nodejs) | `HTML` `CSS` `JavaScript` `Node.JS` `MySQL` `Express.JS` `Rest API` | 
+| Bingo Game | [view](https://bingo-game-steel.vercel.app) | [view](https://github.com/G-nizam-A/Bingo-Game) | `HTML` `CSS` `JavaScript`| 
+| Labour Union Management Sytem | [view](https://smvk.org/) | - | `Next.JS` `JavaScript` `React` `Firebase` `Node.JS` `Tailwind CSS` `Airtable Database` `Zod` `Axios` | 
+| Famos | [view](https://famos.ae/) | - | `HTML` `CSS` `JavaScript` `Bootstrap`  `Airtable Database` |
+| Bike Clinic | [view](https://bike-clinic.vercel.app/) | - | `HTML` `CSS` `JavaScript` |
+| A.M.I.A.F | [view](https://www.aishamuhammedibrahimasilifoundation.com/) | - | `JavaScript` `HTML` `CSS` `Bootstrap` |
+| Hotstar Clone | [view](https://g-nizam-a.github.io/Disney-Plus-Hotstar-Clone/) | [view](https://github.com/G-nizam-A/Disney-Plus-Hotstar-Clone) | `React` `JavaScript` `Node.JS` `Tailwind CSS` `Vite` `Axios` `TMDB API` | 
+| Wave Series | [view](https://github.com/G-nizam-A/wave-series) | - | `HTML` `CSS` `JavaScript` |
+| Alabeer | [view](https://alabeerstore.com/) | - | `HTML` `CSS` `JavaScript` |
+| Estate Plywood | [view](https://estate-plwood.vercel.app/) | - | `HTML` `CSS` `JavaScript` |
+| Weather App | [view](https://g-nizam-a.github.io/weather-app-react/) | [view](https://github.com/G-nizam-A/weather-app-react) | `React` `JavaScript` `Node.JS` `Tailwind CSS` `Axios` `OpenWeatherMap API` |
+| Emergency Call App | - |[view](https://github.com/G-nizam-A/Emergency-Call-Android--App) | `Java` `Android Studio` `XML` |
+| Scholarship Form App | - | [view](https://github.com/G-nizam-A/ScholarshipFormApp) | `Java` `Android Studio` `Firebase` `XML` |
+| Bus Time Management System | - | [view](https://github.com/G-nizam-A/Bus-Time-Management) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
+| Exam Seat Allotment | - | [view](https://github.com/G-nizam-A/Exam-Seat-Allotment) | `Java` `NetBeans` `JFrame` `JSwing` `MySQL` |
 
 <hr>
  <div align="center">
