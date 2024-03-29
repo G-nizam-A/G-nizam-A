@@ -1,4 +1,3 @@
-[![](https://raw.githubusercontent.com/=g-nizam-a/=g-nizam-a/master/profile.gif)])<!-- If you want the template for my gif, email me! -->
 
 <h1 align="center">Hi 👋, I'm Nizam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -14,6 +13,8 @@
   <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a" target="_blank" rel="noreferrer"/></a>
 </div>
 <br>
+
+![picture](https://github.com/G-nizam-A/G-nizam-A/blob/main/dino.gif)
 
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
