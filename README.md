@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/=g-nizam-a/=g-nizam-a/master/profile.gif)])<!-- If you want the template for my gif, email me! -->
+
 <h1 align="center">Hi 👋, I'm Nizam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
