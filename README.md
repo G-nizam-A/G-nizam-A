@@ -13,9 +13,9 @@
   <a href="https://www.youtube.com/@nizamcs10"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube channel of nizam - @nizamcs10 - g-nizam-a" target="_blank" rel="noreferrer"/></a>  
   <a href="https://codepen.io/M-Nizam"><img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen profile of nizam - M-Nizam - g-nizam-a" target="_blank" rel="noreferrer"/></a>
 </div>
-<br>
+ <br> 
 
-![picture](https://github.com/G-nizam-A/G-nizam-A/blob/main/dino.gif)
+<!--![picture](https://github.com/G-nizam-A/G-nizam-A/blob/main/dino.gif)-->
 
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
